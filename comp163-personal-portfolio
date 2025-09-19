@@ -101,7 +101,34 @@ print(f"Current Hobbies: {len(hobbies)} activities")
 print("================================================================")
 
 
-git clone https://github.com/YOUR-USERNAME/comp163-personal-portfolio.git
+git clone https://github.com/JaySmith043/comp163-personal-portfolio.git
 
 
 cd comp163-personal-portfolio
+
+
+
+
+# Assignment 3
+
+## Author
+Jadyn DeWitt-Smith - COMP 163, Fall 2025
+
+## Description
+This is a Python program that creates a personal academic and life portfolio.  
+It displays my personal information, academic history, skills, hobbies,  
+career goals, financial data, and generates formatted output.
+
+## Features
+- Displays personal information (name, email, major, hometown, graduation semester)  
+- Tracks courses, GPA history, and academic progress  
+- Lists skills, learning goals, hobbies, and career interests  
+- Includes financial data such as budget and savings goals  
+- Formats all output professionally for easy reading  
+
+## How to Run
+Clone this repository and run the program with:  
+
+```bash
+python jdewittsmith_assignment_3.py
+
